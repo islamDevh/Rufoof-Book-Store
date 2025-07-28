@@ -1,7 +1,5 @@
 # Rufoof-Book-Store
 
-<img width="1200" height="617" alt="1" src="https://github.com/user-attachments/assets/94b2afed-bdae-4e74-bf9d-5189dfbd7bf3" />
-
 
 <img width="1049" height="598" alt="2" src="https://github.com/user-attachments/assets/0f26835e-445c-40c1-9e36-6229ba9cfa10" />
 
